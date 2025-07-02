@@ -47,45 +47,6 @@ reply_markup = telegram.ReplyKeyboardMarkup.from_button(
 
 Note: KeyboardButton does't send any user data to Mini App (e.g. `language_code`). But you can send all the required data with HTTP GET parameters (see [this function](https://github.com/Easterok/telegram-onboarding-kit/blob/main/bot/bot.py#L51) as reference).
 
-
-## 🌈 Examples/Presets
-
-To help you understand how to create your own configuration, we provide multiple example applications in the `./examples` directory. Each example demonstrates different onboarding scenarios and includes a sample configuration file:
-
-1. Base App
-
-   - Located in: `./app`
-   - Key features: `various slide configurations` `telegram-native design` `onboarding from demo video`
-   - Run command: `npm run dev`
-
-2. Fashion AI App
-
-   - Located in: `./examples/ai`
-   - Key features: `interactive slides` `currency configuration` `vertical products on paywall` `custom preset`
-   - Run command: `npm run dev:ai`
-
-3. Meditation App
-
-   - Located in: `./examples/meditation`
-   - Key features: `localization` `custom icons` `different image styles` `custom preset`
-   - Run command: `npm run dev:meditation`
-
-4. AI Tales App
-
-   - Located in: `./examples/tales`
-   - Key features: `language/currency localization` `interactive flow on onboarding` `custom preset`
-   - Run command: `npm run dev:tales`
-
-5. VPN App
-   - Located in: `./examples/vpn`
-   - Key features: `app created during YouTube tutorial using base preset`
-   - Run command: `npm run dev:vpn`
-
-6. ChatGPT App
-   - Located in: `./examples/chatgpt`
-   - Key features: `onboarding for real bot @chatgpt_karfly_bot` `videos`
-   - Run command: `npm run dev:chagpt`
-
 ## Reusable Packages
 
 ### [@tok/ui](packages/ui/README.md)
