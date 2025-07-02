@@ -31,7 +31,7 @@ export default defineConfig({
             type: 'image',
             src: import('./assets/img/expressions.webp'),
           },
-          shape: 'rounded',
+          shape: 'square',
           pagination: 'count',
           title: '_s2.title',
           description: "_s2.description",
@@ -101,9 +101,9 @@ export default defineConfig({
         // lights
         {
           media: {
-            type: 'sticker',
-            src: import('./assets/stickers/duck_juggling.tgs'),
-            size: 150,
+            type: 'video',
+            src: import('./assets/videos/lights.mp4'),
+            poster: import('./assets/img/lights.webp'),
           },
           shape: 'square',
           pagination: 'count',
@@ -141,9 +141,8 @@ export default defineConfig({
         // assistant (cookiebot)
         {
           media: {
-            type: 'sticker',
-            src: import('./assets/stickers/duck_xray.tgs'),
-            size: 250,
+            type: 'image',
+            src: import('./assets/img/assistant.webp'),
           },
           shape: 'square',
           pagination: 'count',
