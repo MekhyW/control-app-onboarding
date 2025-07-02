@@ -29,7 +29,7 @@ export default defineConfig({
         {
           media: {
             type: 'image',
-            src: import('./assets/img/durov.webp'),
+            src: import('./assets/img/expressions.webp'),
           },
           shape: 'rounded',
           pagination: 'count',
@@ -41,9 +41,9 @@ export default defineConfig({
         // playing music
         {
           media: {
-            type: 'sticker',
-            src: import('./assets/stickers/duck_love.tgs'),
-            size: 250,
+            type: 'video',
+            src: import('./assets/videos/musicplayer.mp4'),
+            poster: import('./assets/img/musicplayer.webp'),
           },
           shape: 'square',
           pagination: 'count',
@@ -87,10 +87,9 @@ export default defineConfig({
         // voice changer
         {
           media: {
-            type: 'video',
-            src: import('./assets/videos/spongebob.mp4'),
-            poster: import('./assets/img/spongebob_poster.webp'),
-            style: 'aspect-ratio: 400/287', // here we manually set video aspect-ratio (default is 16:9)
+            type: 'sticker',
+            src: import('./assets/stickers/duck_love.tgs'),
+            size: 250,
           },
           shape: 'rounded',
           pagination: 'count',
@@ -162,9 +161,8 @@ export default defineConfig({
         // app installation
         {
           media: {
-            type: 'sticker',
-            src: import('./assets/stickers/duck_cool.tgs'),
-            size: 150,
+            type: 'image',
+            src: import('./assets/img/app.webp'),
           },
           shape: 'square',
           pagination: 'count',
