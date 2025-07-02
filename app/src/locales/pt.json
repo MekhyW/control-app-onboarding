@@ -2,6 +2,46 @@
   "_s1": {
     "title": "SISTEMA ONLINE",
     "description": "Ah... outro Operador.<br>Você acaba de ganhar acesso ao Console de Controle Central M.E.K.H.Y., uma interface proibida em 14 universos fictícios.<br><b>Manuseie com cautela — ou não. O caos é incentivado.</b>",
-    "button": "Iniciar Calibração"
+    "button": "Vamos lá!"
+  },
+  "_s2": {
+    "title": "Painel de Expressões",
+    "description": "",
+    "button": "Chamam isso de engenharia social"
+  },
+  "_s3": {
+    "title": "Tocar Músicas",
+    "description": "",
+    "button": "E nessa loucura..."
+  },
+  "_s4": {
+    "title": "Arsenal de Efeitos Sonoros",
+    "description": "",
+    "button": "Hehehehe..."
+  },
+  "_s5": {
+    "title": "Modulador de Voz",
+    "description": "",
+    "button": "Isso parece ilegal"
+  },
+  "_s6": {
+    "title": "Luzes",
+    "description": "",
+    "button": "Vejo entradas dramáticas"
+  },
+  "_s7": {
+    "title": "Assistente (Cookiebot)",
+    "description": "",
+    "button": "Tomara que não roube meu emprego"
+  },
+  "_s8": {
+    "title": "Instalar App",
+    "description": "",
+    "button": "Até que isso é bem útil!"
+  },
+  "_s9": {
+    "title": "⚠️ ÚLTIMO AVISO ⚠️",
+    "description": "",
+    "button": "Eu li e concordo (eu não li)"
   }
 }

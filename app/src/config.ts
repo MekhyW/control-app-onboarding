@@ -33,10 +33,9 @@ export default defineConfig({
           },
           shape: 'rounded',
           pagination: 'count',
-          title: 'Onboarding supports many types of content',
-          description:
-            "Here you can see <b>Image</b>. But it's just the beginning...",
-          button: 'Next',
+          title: '_s2.title',
+          description: "_s2.description",
+          button: '_s2.button',
         },
 
         // playing music
@@ -48,10 +47,9 @@ export default defineConfig({
           },
           shape: 'square',
           pagination: 'count',
-          title: 'Telegram stickers',
-          description:
-            'Just download any <b>.tgs</b> sticker from Telegram and use it in your onboardings',
-          button: 'Next',
+          title: '_s3.title',
+          description: "_s3.description",
+          button: '_s3.button',
         },
 
         // sound effects
@@ -64,8 +62,6 @@ export default defineConfig({
           },
           shape: 'square',
           pagination: 'count',
-          title: 'Forms',
-          description: 'User fills in the form – the bot receives the data',
           form: [
             {
               id: 'text_from_form',
@@ -83,7 +79,9 @@ export default defineConfig({
               type: 'checkbox',
             },
           ],
-          button: 'Next',
+          title: '_s4.title',
+          description: "_s4.description",
+          button: '_s4.button',
         },
 
         // voice changer
@@ -96,10 +94,9 @@ export default defineConfig({
           },
           shape: 'rounded',
           pagination: 'count',
-          title: 'Videos',
-          description:
-            "Typically, video starts <b>automatically</b><br><br>However, on iOS, it will only autoplay upon any prior tap on the page ('Next' button doesn't count). If video doesn't autoplay, user will see preview and pretty animation, inviting them to tap to play the video",
-          button: 'Next',
+          title: '_s5.title',
+          description: "_s5.description",
+          button: '_s5.button',
         },
 
         // lights
@@ -111,9 +108,6 @@ export default defineConfig({
           },
           shape: 'square',
           pagination: 'count',
-          title: 'Lists',
-          description:
-            'Lists can be used to showcase <b>features</b> of your product. Items support customizable icons',
           list: [
             {
               media: {
@@ -140,7 +134,9 @@ export default defineConfig({
               text: 'Some extremely cool feature',
             },
           ],
-          button: 'Next',
+          title: '_s6.title',
+          description: "_s6.description",
+          button: '_s6.button',
         },
 
         // assistant (cookiebot)
@@ -152,15 +148,15 @@ export default defineConfig({
           },
           shape: 'square',
           pagination: 'count',
-          title: 'Everything is customizable',
-          description: '',
           textAlign: 'center',
           list: [
             '<b>CSS styles</b>: extend primary colors from Telegram or set yours',
             'Button text and actions (look down)',
             'Use our carefully crafted <b>presets</b> or easily create your own',
           ],
-          button: 'Super-Duper Next',
+          title: '_s7.title',
+          description: "_s7.description",
+          button: '_s7.button',
         },
 
         // app installation
@@ -172,8 +168,6 @@ export default defineConfig({
           },
           shape: 'square',
           pagination: 'count',
-          title: 'Some other features:',
-          description: '',
           list: [
             'One-click 0$ <b>deploy</b> on GitHub Pages',
             'Language and currency localization',
@@ -183,16 +177,16 @@ export default defineConfig({
             'Many examples/presets',
             "And many more... (see <a href='https://github.com/Easterok/telegram-onboarding-kit' target='_blank'>GitHub</a>)",
           ],
-          button: 'Next',
+          title: '_s8.title',
+          description: "_s8.description",
+          button: '_s8.button',
         },
 
         // fake terms
         {
-          extends: 'paywall',
-          title: 'Paywall',
-          description:
-            'Paywall is a page, where user can pay for access to your product',
-          button: 'Buy'
+          title: '_s9.title',
+          description: "_s9.description",
+          button: '_s9.button',
         }
       ],
     },

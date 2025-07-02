@@ -2,6 +2,46 @@
   "_s1": {
     "title": "SYSTEM ONLINE",
     "description": "Ah… another Operator.<br>You've just been granted access to the M.E.K.H.Y. Core Control Console, a forbidden interface banned in 14 fictional universes.<br><b>Handle it with caution—or don't. Chaos is encouraged.</b>",
-    "button": "Begin Calibration"
+    "button": "Show me what you got!"
+  },
+  "_s2": {
+    "title": "Mood Panel",
+    "description": "",
+    "button": "They call it social engineering"
+  },
+  "_s3": {
+    "title": "Music Player",
+    "description": "",
+    "button": "Rock your body"
+  },
+  "_s4": {
+    "title": "Soundboard Arsenal",
+    "description": "",
+    "button": "Hehehehe..."
+  },
+  "_s5": {
+    "title": "Voice Modulator",
+    "description": "",
+    "button": "This feels illegal"
+  },
+  "_s6": {
+    "title": "Lights",
+    "description": "",
+    "button": "I see dramatic entrances"
+  },
+  "_s7": {
+    "title": "Assistant (Cookiebot)",
+    "description": "",
+    "button": "Hope it doesn't take my job"
+  },
+  "_s8": {
+    "title": "App Installation",
+    "description": "",
+    "button": "Ay that's pretty useful!"
+  },
+  "_s9": {
+    "title": "⚠️ FINAL WARNING ⚠️",
+    "description": "",
+    "button": "I have read and agree (I didn't)"
   }
 }
