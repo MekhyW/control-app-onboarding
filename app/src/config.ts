@@ -56,9 +56,9 @@ export default defineConfig({
         {
           extends: 'form', // note, it's important to extend from 'form' here
           media: {
-            type: 'sticker',
-            src: import('./assets/stickers/duck_spy.tgs'),
-            size: 150,
+            type: 'video',
+            src: import('./assets/videos/soundboard.mp4'),
+            poster: import('./assets/img/soundboard.webp'),
           },
           shape: 'square',
           pagination: 'count',
@@ -87,9 +87,9 @@ export default defineConfig({
         // voice changer
         {
           media: {
-            type: 'sticker',
-            src: import('./assets/stickers/duck_love.tgs'),
-            size: 250,
+            type: 'video',
+            src: import('./assets/videos/voice.mp4'),
+            poster: import('./assets/img/voice.webp'),
           },
           shape: 'rounded',
           pagination: 'count',
