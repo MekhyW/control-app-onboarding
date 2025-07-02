@@ -4,8 +4,9 @@ export default defineConfig({
   theme: 'dark',
   locale: {
     fallback: 'en',
-    pt: import('./locales/pt.json'),
-    en: import('./locales/en.json'),
+    'pt-br': import('./locales/pt.json'),
+    'pt': import('./locales/pt.json'),
+    'en': import('./locales/en.json'),
   },
   pages: [
     {
