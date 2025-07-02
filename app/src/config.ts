@@ -184,10 +184,21 @@ export default defineConfig({
 
         // fake terms
         {
+          extends: 'paywall',
           title: '_s9.title',
-          description: "_s9.description",
-          button: '_s9.button',
-        }
+          description: '_s9.description',
+          links: [
+            {
+              text: 'Link 1',
+              href: 'https://google.com'
+            },
+            {
+              text: 'Link 2',
+              href: 'https://google.com'
+            }
+          ],
+          mainButtonText: '_s9.button',
+        },
       ],
     },
   ],
