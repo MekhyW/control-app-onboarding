@@ -1,47 +1,45 @@
 {
   "_s1": {
-    "title": "SYSTEM ONLINE",
-    "description": "Ah… another Operator.<br>You've just been granted access to the M.E.K.H.Y. Core Control Console, a forbidden interface banned in 14 fictional universes.<br><b>Handle it with caution—or don't. Chaos is encouraged.</b>",
-    "button": "Show me what you got!"
+    "title": "Congratulations, Operator!",
+    "description": "We are happy to inform you have been deemed sufficiently qualified to <b>operate the M.E.K.H.Y. Core Control Console!</b> If you are reading this, it makes you one of the select few who managed to survive pass our rigorous testing processes and gained access to this <u>VERY confidential system.</u> \n  As you know, the CEO of Dragonshore Industries has quite a knack for experimenting with electronic augumentations. The Core is directly wired into his brain, but it needs certain 'external inputs' to realize its true potential.  This is where you come in! Now, please pay close attention to the following tutorial, as <b>any and all damages will be docked from your paycheck.</b>",
+    "button": "Uuhhhh.. okay?"
   },
   "_s2": {
-    "title": "Mood Panel",
-    "description": "",
-    "button": "They call it social engineering"
+    "title": "Expressions",
+    "description": "Welcome to the Expressions panel. The options below may or may not entail behavioural changes to the boss, we haven't tested them all yet, so try some out and report whatever happens, just don't be surprised if you turn into his next lab-rat in return!",
+    "button": "Is this social engineering?"
   },
   "_s3": {
-    "title": "Music Player",
-    "description": "",
+    "title": "Playing Music",
+    "description": "Apparently, part of the augumentations involved installing boomboxes somewhere in his body... And the entirety of Spotify's music Library, for some reason. Don't think about it too much, just make sure to play the right songs when he does his 'villainous entrance' schtick.",
     "button": "Somebody once told me..."
   },
   "_s4": {
-    "title": "Soundboard Arsenal",
-    "description": "",
+    "title": "Sound Effects",
+    "description": "Because cartoon villain's complete without wacky sound effects to accompany his goofy hijinks! Don't spam too much, or you'll be the one to *Vine Boom SFX*.",
     "button": "Hehehehe..."
   },
   "_s5": {
-    "title": "Voice Modulator",
-    "description": "",
+    "title": "Voice Changer",
+    "description": "Any evil mastermind worth his salt knows disguises are crucial for any good plan, and what's a good disguise without a good voice impression to accompany it?",
     "button": "This feels illegal"
   },
   "_s6": {
     "title": "Lights",
-    "description": "",
-    "button": "I see dramatic entrances"
+    "description": "This got installed along with the boomboxes. When questioned about it, the boss said the RGB implants were supposed to improve the electronics' perfomance, or something like that.",
+    "button": "That's gay.. I mean, yes sir"
   },
   "_s7": {
     "title": "Assistant (Cookiebot)",
-    "description": "",
-    "button": "Hope it doesn't take my job"
+    "description": "Of course this interface would come with it's very own little helper! And that would be me: Cookiebot, your personal Artificial Assistant! So if you ever get bored and need someone to talk to, I'm your guy! But don't slack off on the job... I'm watching you.",
+    "button": "Please don't take our jobs"
   },
   "_s8": {
     "title": "App Installation",
-    "description": "",
+    "description": "In order to quickly access the Control Console provided, all you have to do is:",
     "button": "Ay that's pretty useful!"
   },
-  "_s9": {
-    "title": "⚠️ FINAL WARNING ⚠️",
-    "description": "",
-    "button": "I have read and agree (I didn't)"
-  }
+  "_s8step1": "1. Open the control app via this bot's description on Telegram",
+  "_s8step2": "2. Press the three dots on the top right corner",
+  "_s8step3": "3. Press 'Add to Home Screen' and confirm"
 }

@@ -1,47 +1,45 @@
 {
   "_s1": {
-    "title": "SISTEMA ONLINE",
-    "description": "Ah... outro Operador.<br>Você acaba de ganhar acesso ao Console de Controle Central M.E.K.H.Y., uma interface proibida em 14 universos fictícios.<br><b>Manuseie com cautela — ou não. O caos é incentivado.</b>",
-    "button": "Vamos lá!"
+    "title": "Parabéns, Operador!",
+    "description": "Temos o prazer de informar que você foi considerado suficientemente qualificado para <b>operar o Console de Controle do Núcleo M.E.K.H.Y.!</b> Se você está lendo isto, você é um dos poucos selecionados que conseguiram sobreviver aos nossos rigorosos processos de testes e obter acesso a este <u>sistema MUITO confidencial.</u> Como você sabe, o CEO da Dragonshore Industries tem um talento especial para experimentar ampliações eletrônicas. O Núcleo está diretamente conectado ao seu cérebro, mas precisa de certas 'entradas externas' para atingir seu verdadeiro potencial. É aí que você entra! Agora, preste muita atenção ao tutorial a seguir, pois <b>todos os danos serão descontados do seu salário.</b>",
+    "button": "Uuhhhh... ok?"
   },
   "_s2": {
-    "title": "Painel de Expressões",
-    "description": "",
-    "button": "Chamam isso de engenharia social"
+    "title": "Expressões",
+    "description": "Bem-vindo ao painel de Expressões. As opções abaixo podem ou não implicar em mudanças comportamentais no chefe. Ainda não testamos todas, então experimente algumas e relate o que acontecer. Só não se surpreenda se você se transformar no próximo rato de laboratório dele!",
+    "button": "Isso seria engenharia social?"
   },
   "_s3": {
     "title": "Tocar Músicas",
-    "description": "",
+    "description": "Aparentemente, parte das ampliações envolveu a instalação de aparelhos de som em algum lugar do corpo dele... E de toda a biblioteca de músicas do Spotify, por algum motivo. Não pense muito nisso, apenas certifique-se de tocar as músicas certas quando ele fizer sua 'entrada vilã'.",
     "button": "E nessa loucura..."
   },
   "_s4": {
     "title": "Arsenal de Efeitos Sonoros",
-    "description": "",
+    "description": "Porque o vilão dos desenhos animados dispensa efeitos sonoros malucos para acompanhar suas travessuras! Não faça spam, ou você vai tomar um *BONK*.",
     "button": "Hehehehe..."
   },
   "_s5": {
     "title": "Modulador de Voz",
-    "description": "",
+    "description": "Qualquer gênio do mal que se preze sabe que disfarces são cruciais para qualquer bom plano, e o que é um bom disfarce sem uma boa imitação de voz para acompanhá-lo?",
     "button": "Isso parece ilegal"
   },
   "_s6": {
     "title": "Luzes",
-    "description": "",
-    "button": "Vejo entradas dramáticas"
+    "description": "Isso foi instalado junto com os aparelhos de som. Quando questionado sobre isso, o chefe disse que os implantes RGB deveriam melhorar o desempenho dos componentes eletrônicos, ou algo assim.",
+    "button": "Que gay.. digo, sim senhor"
   },
   "_s7": {
     "title": "Assistente (Cookiebot)",
-    "description": "",
-    "button": "Tomara que não roube meu emprego"
+    "description": "Claro que essa interface viria com seu próprio ajudantezinho! E esse ajudante seria eu: Cookiebot, seu Assistente Artificial pessoal! Então, se você ficar entediado e precisar de alguém para conversar, eu sou o cara! Mas não relaxe no trabalho... Estou de olho em você.",
+    "button": "Por favor não roube nossos empregos"
   },
   "_s8": {
     "title": "Instalar App",
-    "description": "",
+    "description": "Para acessar rapidamente o Console de Controle fornecido, tudo o que você precisa fazer é:",
     "button": "Até que isso é bem útil!"
   },
-  "_s9": {
-    "title": "⚠️ ÚLTIMO AVISO ⚠️",
-    "description": "",
-    "button": "Eu li e concordo (eu não li)"
-  }
+  "_s8step1": "1. Abra o aplicativo de controle por meio da descrição deste bot no Telegram",
+  "_s8step2": "2. Pressione os três pontos no canto superior direito",
+  "_s8step3": "3. Pressione 'Adicionar à tela inicial' e confirme"
 }
