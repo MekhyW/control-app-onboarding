@@ -39,7 +39,7 @@
     "description": "In order to quickly access the Control Console provided, all you have to do is:",
     "button": "Ay that's pretty useful!"
   },
-  "_s8step1": "1. Open the control app via this bot's description on Telegram",
+  "_s8step1": "1. Close this tutorial and open the control app via this bot's description",
   "_s8step2": "2. Press the three dots on the top right corner",
   "_s8step3": "3. Press 'Add to Home Screen' and confirm"
 }

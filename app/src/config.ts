@@ -54,9 +54,8 @@ export default defineConfig({
         // sound effects
         {
           media: {
-            type: 'video',
-            src: import('./assets/videos/soundboard.mp4'),
-            poster: import('./assets/img/soundboard.webp'),
+            type: 'image',
+            src: import('./assets/img/soundboard.webp'),
           },
           shape: 'rounded',
           pagination: 'count',
